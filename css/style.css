@@ -1,0 +1,45 @@
+html {
+    font-family: Inter, Cantarel;
+}
+
+body {
+  background-color:  #191724;
+}
+
+h1 {
+  text-align: center;
+  font-size: 118px;
+  color: #e0def4;
+}
+
+h2 {
+  text-align: center;
+  font-size: 96px;
+  color: #e0def4;
+}
+
+h3 {
+  text-align: justify;
+  font-size: 80px;
+  color: #e0def4;
+}
+
+h4 {
+  font-size: 64px;
+  color: #e0def4;
+}
+
+h5 {
+  font-size: 16px;
+  color: #908caa;
+}
+
+p {
+  font-size: 24px;
+  color: #e0def4;
+}
+
+pre {
+  font-size: 24px;
+  color: #e0def4;
+}
